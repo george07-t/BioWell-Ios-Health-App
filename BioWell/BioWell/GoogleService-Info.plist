@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDc6BzKQ64jL8UZl20dS4trfoC26B7c7Pw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1005236603023</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.iosproject98107110113114.BioWell</string>
+	<key>PROJECT_ID</key>
+	<string>biowell-fa0a3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>biowell-fa0a3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1005236603023:ios:df03f4424fdf6db1ab48fa</string>
+</dict>
+</plist>
